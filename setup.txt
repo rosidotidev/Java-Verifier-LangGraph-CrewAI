@@ -1,0 +1,1 @@
+pipenv install langgraph  langchain-openai langchain langchain-community loadenv crewai crewai_tools
